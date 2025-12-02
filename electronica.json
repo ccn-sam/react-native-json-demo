@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Mando de consola", "precio": 25, "imagen" : "https://picsum.photos/id/96/300/300"},
+  { "id": 2, "nombre": "Portátil", "precio": 1000, "imagen" : "https://picsum.photos/id/119/300/300"}
+  { "id": 3, "nombre": "Cámara", "precio": 800, "imagen" : "https://picsum.photos/id/250/300/300"}
+]
