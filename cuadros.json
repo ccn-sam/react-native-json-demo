@@ -1,5 +1,5 @@
 [
   { "id": 1, "nombre": "Naturaleza", "precio": 40, "imagen": "https://picsum.photos/id/17/300/300"},
-  { "id": 2, "nombre": "Montañas", "precio": 35, "imagen": "https://picsum.photos/id/29/300/300" }
+  { "id": 2, "nombre": "Montañas", "precio": 35, "imagen": "https://picsum.photos/id/29/300/300" },
   { "id": 2, "nombre": "Playa", "precio": 45, "imagen": "https://picsum.photos/id/12/300/300" }
 ]
