@@ -141,41 +141,6 @@
 	  "noches": 1,
 	  "estado": "Confirmada",
 	  "fecha_entrada": "2025-09-25"
-	},
-	{
-	  "id": 17,
-	  "cliente": "Patricia Lozano",
-	  "tipo_habitacion": "Suite",
-	  "precio_noche": 250,
-	  "noches": 4,
-	  "estado": "Confirmada",
-	  "fecha_entrada": "2025-09-26"
-	},
-	{
-	  "id": 18,
-	  "cliente": "Mario Delgado",
-	  "tipo_habitacion": "Individual",
-	  "precio_noche": 80,
-	  "noches": 2,
-	  "estado": "Cancelada",
-	  "fecha_entrada": "2025-10-27"
-	},
-	{
-	  "id": 19,
-	  "cliente": "Natalia Cruz",
-	  "tipo_habitacion": "Doble",
-	  "precio_noche": 120,
-	  "noches": 3,
-	  "estado": "Confirmada",
-	  "fecha_entrada": "2025-11-28"
-	},
-	{
-	  "id": 20,
-	  "cliente": "Andrés Molina",
-	  "tipo_habitacion": "Suite",
-	  "precio_noche": 250,
-	  "noches": 2,
-	  "estado": "Pendiente",
-	  "fecha_entrada": "2025-12-29"
 	}
  ]
+
