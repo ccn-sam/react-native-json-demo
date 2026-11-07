@@ -34,5 +34,11 @@
     "title": "Card 6",
     "description": "Creado desde la App y subido a GitHub",
     "image": "https://picsum.photos/300/200"
+  },
+  {
+    "id": 7,
+    "title": "Card 7",
+    "description": "Creado desde la App y subido a GitHub",
+    "image": "https://picsum.photos/300/200"
   }
 ]
