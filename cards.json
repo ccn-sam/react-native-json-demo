@@ -16,5 +16,11 @@
     "title": "Playas del Caribe",
     "description": "Arena blanca y mar turquesa: un paraíso tropical.",
     "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  {
+    "id": 4,
+    "title": "Card 4",
+    "description": "Creado desde la App y subido a GitHub",
+    "image": "https://picsum.photos/300/200"
   }
 ]
